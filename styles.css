@@ -3,7 +3,7 @@
     src: url("fonts/liberation-serif/LiberationSerif-Regular.ttf")
 }
 header{
-    font-family: 'liberation-serif', monospace;
+    font-family: 'liberation Serif', monospace;
     text-align: center;
     font-size: 2rem;
 }
@@ -23,7 +23,7 @@ body{
     margin: 0 auto;
     width: 80%;
     max-width: 1000px;
-    padding: 4px 20px;
+    padding: .4rem 1rem;
     z-index: 1;
     color: white;
 }
@@ -32,4 +32,25 @@ body{
 }
 .container a:visited {
     color:coral;
+}
+.centerImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20rem;
+    max-width: 95%;
+}
+.prjects{
+    text-align: left;
+    font-size: 1rem;
+    font-family: 'liberation Serif', monospace;
+}
+.about{
+    text-align: center;
+    font-family: 'liberation Serif', monospace;
+    font-size: 1rem;
+}
+.haxxer-icons {
+    height: 1.5625rem;
+    width: auto;
 }
