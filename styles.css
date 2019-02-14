@@ -1,6 +1,11 @@
+@font-face {
+    font-family: 'liberation Serif';
+    src: url("fonts/liberation-serif/LiberationSerif-Regular.ttf")
+}
 h1{
-    text-align: center;
-    font-size: 1rem;
+    font-family: 'liberation-serif', monospace;
+    text-align: right;
+    font-size: 3rem;
 }
 body{
     background: teal;
