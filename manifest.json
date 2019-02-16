@@ -1,7 +1,7 @@
 {
     "short_name": "Nolan Clark",
     "name": "Nolan Clark",
-    "start_url": "/",
+    "start_url": "/index.html",
     "background_color": "#008080",
     "theme_color": "#008080",
     "display": "standalone",
@@ -10,6 +10,26 @@
         {
             "src": "icons/dice-d20-192px.png",
             "sizes": "180x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/dice-d20-72px.png",
+            "sizes": "68x72",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/dice-d20-114px.png",
+            "sizes": "107x114",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/dice-d20-120px.png",
+            "sizes": "113x120",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/dice-d20-144px.png",
+            "sizes": "135x144",
             "type": "image/png"
         },
         {
