@@ -1,15 +1,16 @@
 {
     "short_name": "Nolan Clark",
     "name": "Nolan Clark",
+    "start_url": "/",
+    "background_color": "#008080",
+    "theme_color": "#008080",
+    "display": "standalone",
+    "orientation": "portrait",
     "icons": [
         {
-            "src": "icons/dice-d20-152px.png",
+            "src": "icons/dice-d20-192px.png",
             "sizes": "143x152",
             "type": "image/png"
         }
-    ],
-    "start_url": "/?utm_source=homescreen",
-    "background_color": "#008080",
-    "Theme_color": "#000000",
-    "display": "standalone"
+    ]
 }
