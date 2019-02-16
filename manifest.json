@@ -3,9 +3,9 @@
     "name": "Nolan Clark",
     "icons": [
         {
-            "src": "icons/dice-d20.svg",
-            "sizes": "192x205",
-            "type": "image/svg"
+            "src": "icons/dice-d20-152px.png",
+            "sizes": "143x152",
+            "type": "image/png"
         }
     ],
     "start_url": "/?utm_source=homescreen",
