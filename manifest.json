@@ -3,7 +3,7 @@
     "name": "Nolan Clark",
     "start_url": "/index.html",
     "background_color": "#008080",
-    "theme_color": "#008080",
+    "theme_color": "teal",
     "display": "standalone",
     "orientation": "portrait",
     "icons": [
