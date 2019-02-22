@@ -9,6 +9,7 @@ header{
 }
 body{
     background: teal;
+    cursor: none;
 }
 #background {
     position: fixed;
@@ -17,7 +18,6 @@ body{
     min-width: 100%;
     min-height: 100%;
     z-index: -1;
-    cursor: none;
 }
 .container {
     background: rgba(30, 30, 30, 0.70);
